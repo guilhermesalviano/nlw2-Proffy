@@ -27,9 +27,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
 
 ### Web
-<img src=".docs/landing.png" alt="Landing" />
-<img src=".docs/web.png" alt="Landing" />
+<div>
+  <img src=".docs/landing.png" alt="Landing" width="400px" />
+  <img src=".docs/web.png" alt="Landing" width="400px" />
+</div>
 
 ### Mobile
-<img src=".docs/mobile.png" alt="Mobile" />
-<img src=".docs/mobile-home.png" alt="Mobile" />
+<div>
+  <img src=".docs/mobile.png" alt="Mobile" width="180px" />
+  <img src=".docs/mobile-home.png" alt="Mobile" width="180px" />
+</div>
