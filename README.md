@@ -22,6 +22,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   [React Native](https://facebook.github.io/react-native/)
 -   [Expo](https://expo.io/)
 
-## 💻 Projeto
+## 💻 Sobre o projeto:
 
 O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
+
+### Web
+<img src=".docs/landing.png" alt="Landing" />
+<img src=".docs/web.png" alt="Landing" />
+
+### Mobile
+<img src=".docs/mobile.png" alt="Mobile" />
+<img src=".docs/mobile-home.png" alt="Mobile" />
